@@ -7,7 +7,7 @@ import com.geccocrawler.gecco.annotation.JSONPath;
 import com.geccocrawler.gecco.spider.JsonBean;
 
 public class JDad implements JsonBean {
-
+    // test
 	private static final long serialVersionUID = 2250225801616402995L;
 
 	@JSONPath("$.ads[0].ad")
