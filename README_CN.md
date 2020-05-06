@@ -7,7 +7,7 @@ Gecco 是一款用 java 语言开发的轻量化的易用的网络爬虫。Gecco
 
 [参考手册](http://www.geccocrawler.com/)
 
-## 主要特征
+## 主要特征 
 
 - [x] 简单易用，使用 jquery 风格的选择器抽取元素
 - [x] 支持爬取规则的动态配置和加载
